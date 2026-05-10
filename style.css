@@ -1,12 +1,15 @@
-h2{
+h3{
     color: blue;
     text-align: center;
 }
-h1{
+h2{
     color: red;
     text-align: center;
 }
 p{
     color:brown;
+    text-align: center;
+}
+h1{
     text-align: center;
 }
